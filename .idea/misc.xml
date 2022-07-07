@@ -3,7 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/john.cachaoero/AndroidStudioProjects/LottieDemoAnim/app/src/main/res/drawable/bg_asset_not_selected.xml" value="0.145" />
+        <entry key="..\:/Users/john.cachaoero/AndroidStudioProjects/LottieDemoAnim/app/src/main/res/drawable/bg_asset_selected.xml" value="0.145" />
+        <entry key="..\:/Users/john.cachaoero/AndroidStudioProjects/LottieDemoAnim/app/src/main/res/drawable/btn_background.xml" value="0.145" />
         <entry key="..\:/Users/john.cachaoero/AndroidStudioProjects/LottieDemoAnim/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/john.cachaoero/AndroidStudioProjects/LottieDemoAnim/app/src/main/res/layout/cardview_lottie_assets.xml" value="0.22" />
       </map>
     </option>
   </component>
